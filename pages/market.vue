@@ -79,7 +79,7 @@
 
         <b-col v-else>
           <b-card class="text-center">
-            Looks like nobody wants to sell their precious DOJOs!
+            Looks like nobody wants to sell their precious items!
           </b-card>
         </b-col>
       </b-row>
@@ -110,10 +110,10 @@ export default {
       foilOptions: [{ value: 0, text: 'Regular' }, { value: 1, text: 'Gold' }],
       foils: [],
 
-      rarityOptions: [{ value: 0, text: 'Common' }, { value: 1, text: 'Rare' }, { value: 2, text: 'Epic' }],
+      rarityOptions: [{ value: 0, text: 'Common' }, { value: 1, text: 'Rare' }, { value: 2, text: 'Epic' }, { value: 2, text: 'Legendary' }],
       rarities: [],
 
-      teamOptions: [{ value: 0, text: 'Android' }, { value: 1, text: 'Bruiser' }, { value: 2, text: 'Mystic' }, { value: 3, text: 'Ninja' }],
+      teamOptions: [{ value: 0, text: 'Land Plots' }, { value: 1, text: 'Cars' }, { value: 2, text: 'Tuning Parts' }],
       teams: [],
 
       selectedCard: {}
