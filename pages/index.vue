@@ -1,10 +1,10 @@
 <template>
   <div class="homepage">
     <div class="masthead">
-      <h1>DefiDojo</h1>
+      <h1>CryptoCompany CEO Market</h1>
 
       <h5 class="text-muted">
-        Open Packs and Collect NFT Cards
+        3D Play2Earn game CryptoCompany CEO: Open packs and collect, buy and sell NFT cards
       </h5>
     </div>
 
