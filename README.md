@@ -1,4 +1,4 @@
-# DefiDojo Test
+# DefiDojo for CryptoCompany CEO
 
 ## Build Setup
 
