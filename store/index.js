@@ -25,8 +25,8 @@ export const state = () => {
 }
 
 export const getters = {
-  teams: () => ['Android', 'Bruiser', 'Mystic', 'Ninja'],
-  rarities: () => ['Common', 'Rare', 'Epic'],
+  teams: () => ['Land Plots', 'Cars', 'Tuning Parts'],
+  rarities: () => ['Common', 'Rare', 'Epic', 'Legendary'],
   foils: () => ['Regular', 'Gold'],
   settings: state => state.settings,
   types: state => new Map(state.types.map(t => [t.typeId, t])),
