@@ -4,7 +4,7 @@
       <b-container fluid="lg">
         <b-navbar-brand to="/">
           <h4 class="m-0">
-            DefiDojo
+            CryptoCompany CEO Market
           </h4>
         </b-navbar-brand>
 
