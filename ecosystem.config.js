@@ -14,9 +14,9 @@ module.exports = {
       user: 'ubuntu',
       host: ['defidojo.dev'],
       ref: 'origin/master',
-      repo: 'git@github.com:hive-engine/defidojo-frontend.git',
+      repo: 'git@github.com:cryptocompanyceo/defidojo-frontend.git',
       ssh_options: ['ForwardAgent=yes'],
-      path: '/home/ubuntu/nodejs/frontend',
+      path: '/home/andre/defidojo-frontend',
       'post-deploy': 'npm ci && npm run build && pm2 startOrRestart ecosystem.config.js --env production --update-env && pm2 save'
     }
   }

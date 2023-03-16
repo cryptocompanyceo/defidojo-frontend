@@ -1,6 +1,16 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\components",
+    "\\components\\modals",
+    "\\mixins",
+    "\\pages",
+    "\\pages\\_user",
+    "\\plugins",
+    "\\static",
+    "\\static\\icons",
+    "\\store"
   ],
+  "SelectedNode": "\\pages\\market.vue",
   "PreviewInSolutionExplorer": false
 }
